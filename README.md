@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Syrm.
+# Hello there, I'm Syrm 👋.
 
 ### ❔ Who am I?
 I'm Syrm. A project manager, social media manager, and a software engineer from the United Kingdom. I work in many different projects including my main project being Tweak Central. I aspire to make myself a better person each day by setting goals for me to achieve.
