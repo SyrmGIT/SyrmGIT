@@ -5,3 +5,5 @@ I'm Syrm. A project manager, social media manager, and a software engineer from 
 
 ### 📫 How to reach me
 I am most active on my Discord, however I have my direct-messages disabled. Alternatively you can contact me on my [Telegram](https://t.me/SyrmYT) account, and also a [Twitter](https://twitter.com/@SyrmYT). Both of which are open to any enquiries or any questions you have about me, or my projects.
+
+<img src="https://badges.pufler.dev/visits/syrmgit/syrmgit?style=for-the-badge">
